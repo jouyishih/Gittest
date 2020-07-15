@@ -7,7 +7,7 @@ Created on Tue Jun 30 08:56:30 2020
 
 def hello():
     """Print "Hello World" and return None."""
-    print("Hello Jouyi")
+    print("Goodbype Jouyi")
 
 # Main program starts here
 hello()
